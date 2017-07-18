@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: fee46dbfe1e329c4a881ee4bc1257c76
+timeCreated: 1500266546
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: robot_Sprite_0
+    21300002: robot_Sprite_1
+    21300004: robot_Sprite_2
+    21300006: robot_Sprite_3
+    21300008: robot_Sprite_4
+    21300010: robot_Sprite_5
+    21300012: robot_Sprite_6
+    21300014: robot_Sprite_7
+    21300016: robot_Sprite_8
+    21300018: robot_Sprite_9
+    21300020: robot_Sprite_10
+    21300022: robot_Sprite_11
+    21300024: robot_Sprite_12
+    21300026: robot_Sprite_13
+    21300028: robot_Sprite_14
+    21300030: robot_Sprite_15
+    21300032: robot_Sprite_16
+    21300034: robot_Sprite_17
+    21300036: robot_Sprite_18
+    21300038: robot_Sprite_19
+    21300040: robot_Sprite_20
+    21300042: robot_Sprite_21
+    21300044: robot_Sprite_22
+    21300046: robot_Sprite_23
+    21300048: robot_Sprite_24
+    21300050: robot_Sprite_25
+    21300052: robot_Sprite_26
+    21300054: robot_Sprite_27
+    21300056: robot_Sprite_28
+    21300058: robot_Sprite_29
+    21300060: robot_Sprite_30
+    21300062: robot_Sprite_31
+    21300064: robot_Sprite_32
+    21300066: robot_Sprite_33
+    21300068: robot_Sprite_34
+    21300070: robot_Sprite_35
+    21300072: robot_Sprite_36
+    21300074: robot_Sprite_37
+    21300076: robot_Sprite_38
+    21300078: robot_Sprite_39
+    21300080: robot_Sprite_40
+    21300082: robot_Sprite_41
+    21300084: robot_Sprite_42
+    21300086: robot_Sprite_43
+    21300088: robot_Sprite_44
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robot_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 391
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 391
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 308
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 308
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 308
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 308
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 308
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 308
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 308
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 308
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 308
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 220
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 220
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 220
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 220
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 220
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 220
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 220
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 220
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 220
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 131
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 131
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 39
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 39
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 38
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 38
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
